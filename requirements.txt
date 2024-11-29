@@ -1,5 +1,5 @@
-joblib
+plotly
 streamlit
+joblib
 pandas
 scikit-learn
-# Tambahkan dependensi lain yang diperlukan aplikasi Anda
